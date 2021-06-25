@@ -166,6 +166,7 @@ nav .navbar li {
   margin-top: 58px;
 }
 .about .content {
+  background-color: #171819;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
