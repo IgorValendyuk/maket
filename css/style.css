@@ -95,7 +95,6 @@ h6 {
 
 /*_____________________*/
 header {
-  background-image: url(../images/bg.png);
   min-height: 100%;
   max-width: 100%;
   display: flex;
@@ -166,7 +165,6 @@ nav .navbar li {
   margin-top: 58px;
 }
 .about .content {
-  background-color: #171819;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
