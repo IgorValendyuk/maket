@@ -1,0 +1,97 @@
+header{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    height: 90px;
+    align-items: center;
+    border-bottom: solid 1px#828282;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+nav{
+    width: 100%;
+    
+}
+ul.menu{
+    display: flex;
+    list-style-type: none;
+    border-bottom:#828282;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+li a{
+text-decoration: none;
+}
+
+div.Denis{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: space-between;
+    height: 136px;
+    align-items: center;
+}
+div.info1{
+    font-family: Gilroy-Bold;
+    font-size: 47.3392px;
+    line-height: 59px;
+}
+div.info2{
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+}
+div.lan{
+    
+    font-family: Gilroy-Bold;
+    font-size: 16px;
+    line-height: 20px;
+    transform:rotate(-90deg);
+    
+}
+div.foto{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    
+}
+div.img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+div.Aboutme{
+    display: flex;
+    height: 506px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    background: #F6F6F6;
+}
+span.abo{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+}
+
+div.skills{
+    text-align: center;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+}
+span.skill{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+}
+
+
